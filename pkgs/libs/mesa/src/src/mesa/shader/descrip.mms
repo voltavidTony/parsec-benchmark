@@ -10,7 +10,7 @@
 	define main [-.main]
 	define shader [-.shader]
 
-.include [---]mms-config.
+.include [---]mms-config
 
 ##### MACROS #####
 

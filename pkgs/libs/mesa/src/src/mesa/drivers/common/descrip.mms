@@ -11,7 +11,7 @@
 	define shader [--.shader]
 	define main [--.main]
 
-.include [----]mms-config.
+.include [----]mms-config
 
 ##### MACROS #####
 

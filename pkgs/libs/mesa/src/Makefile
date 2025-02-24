@@ -186,7 +186,7 @@ MAIN_FILES = \
 	$(DIRECTORY)/acinclude.m4					\
 	$(DIRECTORY)/aclocal.m4						\
 	$(DIRECTORY)/descrip.mms					\
-	$(DIRECTORY)/mms-config.					\
+	$(DIRECTORY)/mms-config					\
 	$(DIRECTORY)/bin/config.guess					\
 	$(DIRECTORY)/bin/config.sub					\
 	$(DIRECTORY)/bin/install-sh					\

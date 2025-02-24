@@ -13,7 +13,7 @@
 	define glapi [-.glapi]
 	define tnl [-.tnl]
 
-.include [---]mms-config.
+.include [---]mms-config
 
 ##### MACROS #####
 

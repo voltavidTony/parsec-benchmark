@@ -13,7 +13,7 @@
 	define main [-.main]
 	define glapi [-.glapi]
 
-.include [---]mms-config.
+.include [---]mms-config
 
 ##### MACROS #####
 
